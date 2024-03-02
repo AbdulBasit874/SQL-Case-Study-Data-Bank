@@ -34,7 +34,7 @@ Customers are randomly distributed across the nodes according to their region - 
 
 Below is a sample of the top 10 rows of the data_bank.customer_nodes:
 
-|customer_id	|region_id	|node_id	|start_date	|end_date|
+|customer_id|region_id	|node_id	|start_date	|end_date|
 |-------|-----------|---------|-----------|--------|
 |1|3	|4	|2020-01-02	|2020-01-03|
 |2|3	|5	|2020-01-03	|2020-01-17|
